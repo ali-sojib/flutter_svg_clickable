@@ -7,6 +7,9 @@ part of 'map.dart';
 // SvgPathGenerator
 // **************************************************************************
 
+
+//problem with this page
+
 Path __$MapSvgData_text;
 Path get _$MapSvgData_text =>
     __$MapSvgData_text ??
