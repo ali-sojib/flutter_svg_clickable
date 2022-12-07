@@ -1,3 +1,4 @@
+/*
 
 import 'package:collection/collection.dart';
 import 'package:flutter/foundation.dart';
@@ -29,3 +30,4 @@ class DistrictSelection {
   @override
   int get hashCode => const ListEquality<District>().hash(selectedDistricts);
 }
+*/

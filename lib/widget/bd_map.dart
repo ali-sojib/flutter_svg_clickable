@@ -1,3 +1,4 @@
+/*
 // Copyright (c) 2021 Sazzad Shopno
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -235,3 +236,4 @@ class PathPainter extends CustomPainter {
   @override
   bool shouldRebuildSemantics(PathPainter oldDelegate) => false;
 }
+*/
